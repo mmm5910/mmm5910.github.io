@@ -52,13 +52,18 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  
+  안녕하세요. <mark> 한림대학교</mark>에 재학 중인 20203835 이희경입니다.
+  현재 소프트웨어학부에서 공부하고 있으며, 현재 최대 관심사는 게임 개발입니다.
+  #[links](http://foobar.com)<mark></mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  저의 취미는 다음과 같습니다.
+  # [markdown](https://www.markdownguide.org/getting-started#what-is-markdown)
+    - 독서
+    - 영화감상
+    - 게임
+    # - <a href="google.com">Links</a>
+    #- Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
