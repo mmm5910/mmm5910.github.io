@@ -50,7 +50,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: imgages/my_face.JPG 
 about_content: | # this will include new lines to allow paragraphs
   
   안녕하세요. <mark>[ 한림대학교](https://www.hallym.ac.kr/)</mark>에 재학 중인 20203835 이희경입니다.<br>
