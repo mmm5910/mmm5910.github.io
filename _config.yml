@@ -53,9 +53,8 @@ additional_links:
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   
-  안녕하세요. <mark>[ 한림대학교]</mark>(https://www.hallym.ac.kr/)에 재학 중인 20203835 이희경입니다.<br>
-  현재 소프트웨어학부에서 공부하고 있으며, 현재 최대 관심사는 게임 개발입니다.
-  #[links](http://foobar.com)
+  안녕하세요. [ 한림대학교](https://www.hallym.ac.kr/)에 재학 중인 20203835 이희경입니다.<br>
+  현재<mark> 소프트웨어학부</mark>에서 공부하고 있으며, 현재 최대 관심사는 게임 개발입니다.
 
   저의 취미는 다음과 같습니다.
   # [markdown](https://www.markdownguide.org/getting-started#what-is-markdown)
