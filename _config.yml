@@ -62,25 +62,34 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Coupang logistics services
         sub_title: ICQA,IB
         caption: 2021.12~2022.02
         quote: >
-          Short description of the company (optional)
+          )ddd
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          쿠팡에서 단기알바 경험이 있습니다. 
+    content:
+      - layout: left
+        title : Naver
+        sub_title : Data mining
+        caption : 2020.06~2020.09
+        quote : >
+        description: 
+          네이버에서 단기아르바이트로 머신러닝을 위한 데이터마이닝 작업을 한 경험이 있습니다.
+
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title: 신촌초등학교
+        title: Hallym University
         sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        caption: 2020~
         quote: >
-          Short institution or course description (optional)
+          한림대학교 소프트웨어학부에 재학중이며 전공은 콘텐츠it, 부전공은 스마트iot 입니다. 
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          한림대학교 소프트웨어학부에 재학중이며 전공은 콘텐츠it, 부전공은 스마트iot입니다. 
 
 
 
