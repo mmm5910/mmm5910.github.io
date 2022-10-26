@@ -59,26 +59,6 @@ about_content: | # this will include new lines to allow paragraphs
     - <a href="google.com">Links</a>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
   - title: Experience
     layout: list
     content:
@@ -108,11 +88,11 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      저의 취미는 독서와 영화감상입니다. </br>
-      최근 개발과 관련된 재미있고 흥미로운 책을 읽었는데, 몇 가지 소개해보고자 합니다.</br>
+      저의 취미는 독서와 영화감상입니다. <br>
+      최근 개발과 관련된 재미있고 흥미로운 책을 읽었는데, 몇 가지 소개해보고자 합니다.<br>
       
-      Images ![alt text](/images/just_for_fun_linux.jpg "book1")
-      Images ![alt text](/images/learning_network_with_picture.jpg "book2")
+      ![alt text](/images/just_for_fun_linux.jpg "book1")
+      ![alt text](/images/learning_network_with_picture.jpg "book2")
 
 
       
