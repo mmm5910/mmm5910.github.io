@@ -61,7 +61,7 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Experience
     layout: list
-    content:
+    - content:
       - layout: left
         title: Coupang logistics services
         sub_title: ICQA,IB
@@ -69,14 +69,14 @@ content:
         quote: >
           )ddd
         description: | # this will include new lines to allow paragraphs
-          쿠팡에서 단기알바 경험이 있습니다. 
-    content:
-      - layout: left
-        title : Naver
-        sub_title : Data mining
-        caption : 2020.06~2020.09
-        quote : >
-        description: 
+          쿠팡에서 단기알바를 했습니다. ICQA에서는 재고관리, IB에서는 상품입고와 진열을 했습니다. 
+    - content:
+       - layout: left
+         title : Naver
+         sub_title : Data mining
+         caption : 2020.06~2020.09
+         quote : >
+         description: 
           네이버에서 단기아르바이트로 머신러닝을 위한 데이터마이닝 작업을 한 경험이 있습니다.
 
   - title: Education
@@ -84,7 +84,7 @@ content:
     content:
       - layout: top-right
         title: Hallym University
-        sub_title: Qualifications (eg. BA Performing Arts)
+        sub_title: major - content it/ double major - smart iot
         caption: 2020~
         quote: >
           한림대학교 소프트웨어학부에 재학중이며 전공은 콘텐츠it, 부전공은 스마트iot 입니다. 
