@@ -50,22 +50,21 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Experience
     layout: list
-    - content:
+    content:
       - layout: left
         title: Coupang logistics services
         sub_title: ICQA,IB
         caption: 2021.12~2022.02
         quote: >
-          )ddd
         description: | # this will include new lines to allow paragraphs
           ICQA에서는 재고관리, IB에서는 상품입고와 진열을 했습니다. 
-      content:
-       - layout: left
-         title : Naver
-         sub_title : Data mining
-         caption : 2020.06~2020.09
-         quote : >
-         description: 
+    content:
+      - layout: left
+        title : Naver
+        sub_title : Data mining
+        caption : 2020.06~2020.09
+        quote : >
+        description: 
           네이버에서 단기아르바이트로 머신러닝을 위한 데이터마이닝 작업을 한 경험이 있습니다.
 
   - title: Education
@@ -74,7 +73,7 @@ content:
       - layout: left
         title: Hallym University
         sub_title: 콘텐츠 it
-        caption: 2020~
+        caption: 2020~현재
         quote: > 
         description: | # this will include new lines to allow paragraphs
           한림대학교 소프트웨어학부에 재학중이며 전공은 콘텐츠it, 부전공은 스마트iot입니다. 
