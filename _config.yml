@@ -59,13 +59,16 @@ content:
         sub_title: ICQA,IB
         caption: 2021.12~2022.02
         description: | # this will include new lines to allow paragraphs
-          ICQA에서는 재고관리, IB에서는 상품입고와 진열을 했습니다. 
+          ICQA에서는 재고관리, IB에서는 상품입고와 진열을 했습니다. 간단한 작업들을 했지만, 우리나라의 물류 중심에서 일하면서
+          쿠팡이 어떤 프로세스로 물건들을 관리하고 있는지를 볼 수 있었습니다.
+          
       - layout: left
         title : Naver
         sub_title : Data mining
         caption : 2020.06~2020.09
         description: 
           네이버에서 단기아르바이트로 머신러닝을 위한 데이터마이닝 작업을 한 경험이 있습니다.
+          단순한 일을 하는 아르바이트였지만 네이버라는 회사의 조직문화도 간접적으로 엿볼 수 있었습니다.
 
   - title: Education
     layout: list
@@ -76,6 +79,7 @@ content:
         caption: 2020~현재
         description: | # this will include new lines to allow paragraphs
           한림대학교 소프트웨어학부에 재학중이며 전공은 콘텐츠it, 부전공은 스마트iot입니다.
+          
 
 
 
@@ -84,6 +88,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       저의 취미는 독서와 영화감상입니다. <br>
+      외향적인 성격은 아닌지라, 주로 집에서 하는 활동들을 즐깁니다.
       최근 개발과 관련된 재미있고 흥미로운 책을 읽었는데, 몇 가지 소개해보고자 합니다.<br>
       
       ![alt text](/images/just_for_fun_linux.jpg "book1")
