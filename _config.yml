@@ -51,7 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Experience
     layout: list
-    content:
+    - content:
       - layout: left
         title: Coupang logistics services
         sub_title: ICQA,IB
@@ -60,7 +60,7 @@ content:
           )ddd
         description: | # this will include new lines to allow paragraphs
           ICQA에서는 재고관리, IB에서는 상품입고와 진열을 했습니다. 
-    content:
+      content:
        - layout: left
          title : Naver
          sub_title : Data mining
