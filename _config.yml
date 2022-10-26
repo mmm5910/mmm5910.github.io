@@ -43,14 +43,9 @@ about_profile_image: images/my_face.JPG
 about_content: | # this will include new lines to allow paragraphs
   
   안녕하세요. 한림대학교에 재학 중인 이희경입니다.<br>
-  현재  소프트웨어학부에서 공부하고 있으며, 현재에는 게임 개발을 목표로 공부하고 있습니다.
- 
+  현재  소프트웨어학부에서 공부하고 있으며, 현재에는 게임 개발을 목표로 공부하고 있습니다.<br>
   <mark>Python</mark> <mark>JAVA</mark> <mark>c/c++</mark> <br>
   <mark>UnityEngine</mark> <br>
-
-
-
-    
 
 content:
   - title: Experience
