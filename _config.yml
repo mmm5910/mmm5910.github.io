@@ -53,10 +53,10 @@ additional_links:
 about_profile_image: images/my_face.JPG 
 about_content: | # this will include new lines to allow paragraphs
   
-  안녕하세요. <mark> 한림대학교</mark>에 재학 중인 20203835 이희경입니다.<br>
-  현재 <mark> 소프트웨어학부</mark>에서 공부하고 있으며, 현재에는 게임 개발을 목표로 공부하고 있습니다.
+  안녕하세요. 한림대학교에 재학 중인 이희경입니다.<br>
+  현재  소프트웨어학부에서 공부하고 있으며, 현재에는 게임 개발을 목표로 공부하고 있습니다.
  
-    - <a href="google.com">Links</a>
+    
 
 content:
   - title: Experience
@@ -69,7 +69,7 @@ content:
         quote: >
           )ddd
         description: | # this will include new lines to allow paragraphs
-          쿠팡에서 단기알바를 했습니다. ICQA에서는 재고관리, IB에서는 상품입고와 진열을 했습니다. 
+          ICQA에서는 재고관리, IB에서는 상품입고와 진열을 했습니다. 
     - content:
        - layout: left
          title : Naver
@@ -82,12 +82,11 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: top-left
         title: Hallym University
-        sub_title: major - content it/ double major - smart iot
+        sub_title: 콘텐츠 it
         caption: 2020~
-        quote: >
-          한림대학교 소프트웨어학부에 재학중이며 전공은 콘텐츠it, 부전공은 스마트iot 입니다. 
+        quote: > 
         description: | # this will include new lines to allow paragraphs
           한림대학교 소프트웨어학부에 재학중이며 전공은 콘텐츠it, 부전공은 스마트iot입니다. 
 
