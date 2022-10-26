@@ -19,9 +19,8 @@ website: http://34.64.195.174:9999/
 darkmode: false
 
 # Social links
-github_username:  jekyll
+github_username:  mmm5910
 stackoverflow_username: "00000001"
-linkedin_username: jekyll
 
 # Additional icon links
 additional_links:
@@ -46,6 +45,11 @@ about_content: | # this will include new lines to allow paragraphs
   안녕하세요. 한림대학교에 재학 중인 이희경입니다.<br>
   현재  소프트웨어학부에서 공부하고 있으며, 현재에는 게임 개발을 목표로 공부하고 있습니다.
  
+  <mark>Python</mark> <mark>JAVA</mark> <mark>c/c++</mark> <br>
+  <mark>UnityEngine</mark> <br>
+
+
+
     
 
 content:
@@ -91,7 +95,7 @@ content:
       
       ![alt text](/images/just_for_fun_linux.jpg "book1")
       ![alt text](/images/learning_network_with_picture.jpg "book2")
-
+      ![alt text](/images/clean_code.jpg "book3")
 
       
 
