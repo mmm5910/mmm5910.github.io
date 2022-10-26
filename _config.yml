@@ -43,7 +43,10 @@ about_profile_image: images/my_face.JPG
 about_content: | # this will include new lines to allow paragraphs
   
   안녕하세요. 한림대학교에 재학 중인 이희경입니다.<br>
-  현재  소프트웨어학부에서 공부하고 있으며, 현재에는 게임 개발을 목표로 공부하고 있습니다.<br>
+  현재 소프트웨어학부에서 공부하고 있으며, 현재에는 게임 개발을 목표로 공부하고 있습니다.<br>
+  막상 이력서를 쓰려 하니까 특별히 한 활동이나 이렇다 할 프로젝트를 진행한 적이 없네요. 하하;;<br>
+  하지만 이번 경험을 반성의 기회로 삼아 남은시간동안 열심히 활동해야 겠습니다. 화이팅!<br>
+  <br>
   <mark>Python</mark> <mark>JAVA</mark> <mark>c/c++</mark> <br>
   <mark>UnityEngine</mark> <br>
 
@@ -55,15 +58,12 @@ content:
         title: Coupang logistics services
         sub_title: ICQA,IB
         caption: 2021.12~2022.02
-        quote: >
         description: | # this will include new lines to allow paragraphs
           ICQA에서는 재고관리, IB에서는 상품입고와 진열을 했습니다. 
-    content:
       - layout: left
         title : Naver
         sub_title : Data mining
         caption : 2020.06~2020.09
-        quote : >
         description: 
           네이버에서 단기아르바이트로 머신러닝을 위한 데이터마이닝 작업을 한 경험이 있습니다.
 
@@ -74,9 +74,8 @@ content:
         title: Hallym University
         sub_title: 콘텐츠 it
         caption: 2020~현재
-        quote: > 
         description: | # this will include new lines to allow paragraphs
-          한림대학교 소프트웨어학부에 재학중이며 전공은 콘텐츠it, 부전공은 스마트iot입니다. 
+          한림대학교 소프트웨어학부에 재학중이며 전공은 콘텐츠it, 부전공은 스마트iot입니다.
 
 
 
