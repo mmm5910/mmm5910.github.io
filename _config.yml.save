@@ -7,12 +7,12 @@ version: 2
 
 # Personal info
 name: Lee Hee Kyeong
-title: Student, Hallym Univ.
-email: ram1539@naver.com/lhk645901@gmail,com
+title: student, Hallym University
+email: ram1539@naver.com
 # email_title: Email (Email title override)
 phone: 010-xxxx-7690
 # phone_title: Phone (Phone title override)
-website: http://34.64.195.174:9999/
+website: http://
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -25,8 +25,7 @@ stackoverflow_username: "00000001"
 dribbble_username: jekyll
 facebook_username: jekyll
 flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
+instagram_username: jekylllinkedin_username: jekyll
 xing_username: jekyll
 pinterest_username: jekyll
 youtube_username: jekyll
@@ -50,13 +49,15 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/my_face.JPG 
+about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  
-  안녕하세요. <mark> 한림대학교</mark>에 재학 중인 20203835 이희경입니다.<br>
-  현재 <mark> 소프트웨어학부</mark>에서 공부하고 있으며, 현재에는 게임 개발을 목표로 공부하고 있습니다.
- 
+  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+
+  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+    - Lists
+    - Tables
     - <a href="google.com">Links</a>
+    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
@@ -83,9 +84,10 @@ content:
     layout: list
     content:
       - layout: right
-        title: Coupang logistics services
-        sub_title: ICQA,IB
-        caption: 2021.12~2022.02
+        title: Company name
+        sub_title: Job title
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
@@ -94,28 +96,19 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: 신촌초등학교
+        title: Institution name
         sub_title: Qualifications (eg. BA Performing Arts)
         caption: Date Range (eg. 2016 - 2019)
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
-
-
-
-
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      저의 취미는 독서와 영화감상입니다. </br>
-      최근 개발과 관련된 재미있고 흥미로운 책을 읽었는데, 몇 가지 소개해보고자 합니다.</br>
-      
-      Images ![alt text](/images/just_for_fun_linux.jpg "book1")
-      Images ![alt text](/images/learning_network_with_picture.jpg "book2")
+      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
-
-      
+      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
